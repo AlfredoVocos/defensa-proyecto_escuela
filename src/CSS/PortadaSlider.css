@@ -1,0 +1,37 @@
+.portadaslider{
+    background-image: url('../assets/fondo_portada.jpg');
+    background-size: cover; /*  cubre toda el area del contenedor*/
+    background-position: center; /* centra la imagen de fondo */
+    padding: 20px 0;
+}
+.slider-img {
+  
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+.portadaslider_container{
+    width: 50%;
+    
+    margin: 5% auto;
+    border-radius: 15px;
+    box-shadow: 16px 16px rgba(0, 0, 0, 0.2); /* sombra suave */
+   
+}
+.portadaslider_title{
+    font-family: 'Albondigas';
+    text-align: center;
+    font-size: 15vh;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.portadaslider_subtitle{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 4vh;
+    color: #fff;
+    margin-bottom: 20px;
+}

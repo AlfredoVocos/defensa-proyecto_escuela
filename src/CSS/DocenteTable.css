@@ -1,0 +1,57 @@
+.containerDocente{
+    background-image: url('../assets/fondo_portada.jpg'); /* Ajusta la ruta según tu estructura */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; /* Asegura que el fondo se vea en toda la pantalla */
+  width: 100%;
+}
+
+.titulo{
+    font-family: 'Albondigas', cursive; /* Asegúrate de que la fuente esté importada */
+    font-size: 10vh; /* Tamaño de fuente grande */
+    color: #fff; /* Color del texto */
+    text-align: center; /* Centra el texto */
+    margin-top: 20px; /* Espacio superior */
+    margin-bottom: 20px; /* Espacio inferior */
+}
+.contenedorFlex {
+    
+  display: flex; /* pongo elementos (imagen y h1) uno al lado del otro.*/
+    align-items: center; /* alineo verticalmente los elementos.*/
+    justify-content: center;  /* centro horizontalmente todo el bloque.*/
+   gap: 5%;  /*mete espacio entre la imagen y el texto*/
+   padding-top: 1%;
+    padding-bottom: 20%;
+}
+.contenedorLabel{
+    font-size: 2.2vh;
+    color: rgb(37, 35, 180);
+    font-weight: bold;
+}
+.contenedorFormDocente{
+    
+    
+   width: 30%;  
+         
+    
+    padding: 40px;      /* Más espacio interno */
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.ImgcargaDocente{
+    width: 28%;
+    height: auto;
+   
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    
+}
+
+.contenedorBoton {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  
+}

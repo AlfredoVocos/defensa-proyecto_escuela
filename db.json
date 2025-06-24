@@ -1,0 +1,81 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "usuario": "docentes",
+      "password": "1234"
+    }
+  ],
+  "docentes": [
+    {
+      "id": "9166",
+      "nombre": "Perez, Juan",
+      "dni": "32178945",
+      "email": "juan@gmail.com",
+      "materia": "Inglés"
+    },
+    {
+      "id": "ec35",
+      "nombre": "Gutierrez, Ricardo",
+      "dni": "45698712",
+      "email": "ricardo@gmail.com",
+      "materia": "Matemáticas"
+    },
+    {
+      "id": "1088",
+      "nombre": "García, Analia",
+      "dni": "30123456",
+      "email": "analia.garcia@escuela.edu",
+      "materia": "Matemáticas"
+    },
+    {
+      "id": "adee",
+      "nombre": "Gómez, Laura",
+      "dni": "28.123.456",
+      "email": "laura.gomez@escuela.edu.ar",
+      "materia": "Historia"
+    },
+    {
+      "id": "ed71",
+      "nombre": "Rodríguez, María",
+      "dni": "28.999.888",
+      "email": "maria.rodriguez@escuela.edu.ar",
+      "materia": "Filosofía"
+    },
+    {
+      "id": "a543",
+      "nombre": "Fernández, Nicolás",
+      "dni": "27.876.543",
+      "email": "nicolas.fernandez@escuela.edu.ar",
+      "materia": " Geografía"
+    },
+    {
+      "id": "64b3",
+      "nombre": "López, Carla",
+      "dni": " 26.123.456",
+      "email": "carla.lopez@escuela.edu.ar",
+      "materia": "Ciencias Naturales"
+    },
+    {
+      "id": "bc71",
+      "nombre": "Martínez, Diego",
+      "dni": "27.456.789",
+      "email": "diego.martinez@escuela.edu.ar",
+      "materia": "base de datos"
+    },
+    {
+      "id": "937a",
+      "nombre": "Torres, Sofía",
+      "dni": "29.543.210",
+      "email": "sofia.torres@escuela.edu.ar",
+      "materia": "Metodología"
+    },
+    {
+      "id": "8588",
+      "nombre": "Aguilar, Pedro",
+      "dni": "12365478",
+      "email": "aguilar.pedro@docente.utn.com",
+      "materia": "Algebra"
+    }
+  ]
+}

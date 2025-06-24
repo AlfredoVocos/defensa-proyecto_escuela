@@ -1,0 +1,18 @@
+.miNavbar {
+  background-color: #74b6e2 !important;
+  
+}
+.btn_login{
+    font-size: 2.7vh !important;
+    border-radius: 25px !important;      /* más redondo */
+  background-color: #007bff !important; /* color de fondo personalizado */
+  color: #fff !important;              /* color del texto */
+  border: none !important;             /* sin borde */
+  padding: 10px 30px !important;        /* más espacio interno */
+  font-weight: bold !important;
+  transition: background 0.3s !important;
+  margin-right: 40px !important;
+}
+.btn_login:hover { 
+  background-color: #0056b3 !important; /* color al pasar el mouse */
+}
